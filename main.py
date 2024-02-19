@@ -54,4 +54,4 @@ if __name__ == "__main__":
     print(f"Total Strength: {mlops_class.get_total_strength()}")  # Output: 7
 
     class_name = mlops_class.get_class_name()
-    print(f"Class Name: {class_name}")  # Output: MLOps
+    print(f"Class Name: {class_name}") 
