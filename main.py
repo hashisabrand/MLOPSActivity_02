@@ -16,4 +16,4 @@ class StudentsInMLOps:
         return self.numberOfStudents
 
     def getClassName(self):
-        print('StudentsInMLOps')
+        print('MLOps')
